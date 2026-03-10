@@ -2,4 +2,5 @@
 util/update_bins text eol=lf
 util/vnet_generate text eol=lf
 util/vnet_run text eol=lf
+util/vnet_filter_run text eol=lf
 *.sh text eol=lf
